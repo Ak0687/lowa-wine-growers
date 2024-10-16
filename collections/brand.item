@@ -1,0 +1,18 @@
+<div class="logo-section">
+    <h2>Our Partners</h2>
+    <div class="logo-row">
+        <div class="logo-item">
+            <img src="<squarespace:block-field id="blockField1" columns="12"/>" alt="Logo 1">
+        </div>
+        <div class="logo-item">
+            <img src="logo2.jpg" alt="Logo 2">
+        </div>
+        <div class="logo-item">
+            <img src="logo3.jpg" alt="Logo 3">
+        </div>
+        <div class="logo-item">
+            <img src="logo4.jpg" alt="Logo 4">
+        </div>
+    </div> 
+    
+</div>
